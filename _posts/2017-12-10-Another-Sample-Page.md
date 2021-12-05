@@ -1,5 +1,5 @@
 ---
-title: Another Sample Page
+title: DAY 0
 published: true
 ---
 
